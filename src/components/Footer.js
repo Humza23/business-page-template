@@ -82,10 +82,10 @@ const Footer = () => {
         <footer id="footer">
       <main>
         <address>
-            My New Business<br/><br/>
+            My House<br/><br/>
             1234 My House St.<br/>
             Brooklyn, NY 12345<br/><br/>
-            e. <a href="mailto:webmaster@somedomain.com">business@email.com</a><br/>
+            e. <a href="mailto:webmaster@somedomain.com">email@business.com</a><br/>
             p. <a href="tel:+13301231234">718.123.1234</a>
         </address>
         <form onSubmit={sendEmail} name="contactForm">

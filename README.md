@@ -1,5 +1,3 @@
-**Business Page Template**
-
 To set up email form with correct email please follow the following steps:
 
 1. Go to EmailJS.com
